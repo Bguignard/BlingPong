@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/terrain-de-foot.unity
+  isLoaded: 1
+  isActive: 1
